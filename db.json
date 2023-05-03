@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "name": "Julian Rohan",
+      "id": 32
+    },
+    {
+      "name": "Irene Pacocha",
+      "id": 33
+    },
+    {
+      "name": "Howard Stamm",
+      "id": 34
+    },
+    {
+      "name": "Cynthia Koch",
+      "id": 36
+    },
+    {
+      "name": "Mr. Cassandra Bartell",
+      "id": 37
+    },
+    {
+      "name": "Jessie Rolfson DVM",
+      "id": 38
+    },
+    {
+      "name": "Ora Goyette",
+      "id": 39
+    },
+    {
+      "name": "Stanley Reinger",
+      "id": 40
+    }
+  ],
+  "albums": [
+    {
+      "title": "Rustic Bronze Table",
+      "userId": 39,
+      "id": 2
+    },
+    {
+      "title": "Bespoke Steel Shoes",
+      "userId": 39,
+      "id": 3
+    },
+    {
+      "title": "Sleek Granite Cheese",
+      "userId": 39,
+      "id": 4
+    },
+    {
+      "title": "Awesome Concrete Mouse",
+      "userId": 39,
+      "id": 5
+    },
+    {
+      "title": "Elegant Granite Bacon",
+      "userId": 39,
+      "id": 6
+    },
+    {
+      "title": "Tasty Cotton Shoes",
+      "userId": 39,
+      "id": 7
+    },
+    {
+      "title": "Sleek Metal Soap",
+      "userId": 39,
+      "id": 8
+    },
+    {
+      "title": "Rustic Rubber Bike",
+      "userId": 38,
+      "id": 9
+    },
+    {
+      "title": "Elegant Granite Computer",
+      "userId": 40,
+      "id": 10
+    },
+    {
+      "title": "Unbranded Soft Pizza",
+      "userId": 40,
+      "id": 11
+    },
+    {
+      "title": "Ergonomic Concrete Towels",
+      "userId": 40,
+      "id": 12
+    },
+    {
+      "title": "Small Soft Tuna",
+      "userId": 40,
+      "id": 13
+    },
+    {
+      "title": "Handmade Concrete Shirt",
+      "userId": 32,
+      "id": 14
+    },
+    {
+      "title": "Rustic Fresh Chair",
+      "userId": 32,
+      "id": 15
+    },
+    {
+      "title": "Bespoke Frozen Salad",
+      "userId": 37,
+      "id": 22
+    },
+    {
+      "title": "Luxurious Granite Ball",
+      "userId": 32,
+      "id": 23
+    },
+    {
+      "title": "Incredible Cotton Chair",
+      "userId": 32,
+      "id": 24
+    },
+    {
+      "title": "Tasty Fresh Table",
+      "userId": 34,
+      "id": 25
+    },
+    {
+      "title": "Practical Plastic Salad",
+      "userId": 34,
+      "id": 26
+    },
+    {
+      "title": "Fantastic Rubber Salad",
+      "userId": 33,
+      "id": 27
+    },
+    {
+      "title": "Oriental Wooden Cheese",
+      "userId": 36,
+      "id": 28
+    },
+    {
+      "title": "Modern Frozen Car",
+      "userId": 32,
+      "id": 29
+    }
+  ],
+  "photos": []
+}
